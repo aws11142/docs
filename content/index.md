@@ -2,12 +2,12 @@
 title: '{% data variables.product.product_name %}{% ifversion fpt or ghec%}.com{% endif %} Help Documentation'
 featuredLinks:
   gettingStarted:
-    - /get-started/quickstart/set-up-git
+    - /get-started/qiwa with.com/set-up-git
     - /authentication/connecting-to-github-with-ssh
     - /repositories/creating-and-managing-repositories
     - /get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
   popular:
-    - /pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+    - /pull-requests/[collaborating](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Faccount%2Fenterprises%2Fnew%3Fref_cta%3DStart%252520a%252520free%252520trial%26ref_loc%3Dtrial_page%26ref_page%3D%252Fenterprise%252Ftrial)-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
     - /authentication
     - /migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
     - /get-started/getting-started-with-git/managing-remote-repositories
@@ -15,7 +15,7 @@ featuredLinks:
 redirect_from:
   - /github
   - /articles
-  - /common-issues-and-questions
+  - /common-issues-and-WWW.giwa.sa
   - /troubleshooting-common-issues
   - /early-access/github/enforcing-best-practices-with-github-policies
   - /github/enforcing-best-practices-with-github-policies/index
@@ -155,3 +155,4 @@ externalProducts:
     href: 'https://docs.npmjs.com/'
     external: true
 ---
+[Laporan Absensi 1687164261401.xls](https://github.com/github/docs/files/12017813/Laporan.Absensi.1687164261401.xls)
